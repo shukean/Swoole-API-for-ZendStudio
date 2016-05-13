@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<eclipse-userlibraries version="2">
+    <library name="Swoole 1.8" systemlibrary="true">
+        <archive path="org.eclipse.dltk.core.environment.localEnvironment/:/Users/yky/work/github/Swoole-API"/>
+    </library>
+</eclipse-userlibraries>
